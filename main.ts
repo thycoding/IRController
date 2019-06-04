@@ -304,7 +304,7 @@ namespace IR {
      */
     //% blockId=getCode block="the received IR code"
     //% weight=60 blockGap=10
-    export function getCode(): string {
+    export function getCode(): number {
         return convertHexStrToNum(messageStr)	
     }    
 
