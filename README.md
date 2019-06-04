@@ -1,6 +1,6 @@
 # IR Controller Extension
 
-This IR Controller Extension is based on the Infrared extension developed Liou Zheng-Ji (https://sites.google.com/jes.mlc.edu.tw/ljj/) .
+This IR Controller Extension is based on the Infrared extension developed by Liou Zheng-Ji (https://sites.google.com/jes.mlc.edu.tw/ljj/) .
 
 
 ## MODIFICATIONS
