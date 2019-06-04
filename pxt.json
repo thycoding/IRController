@@ -1,7 +1,7 @@
 {
-    "name": "IR",
-    "version": "0.0.3",
-    "description": "這是專為micro:bit提供的紅外線積木(This is the infrared blocks for microbit)",
+    "name": "IR_Controller",
+    "version": "0.0.1",
+    "description": "Infrared Controller @THYCoding </>",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -9,8 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/IR-strings.json",
-        "_locales/de/IR-strings.json"
+        "_locales/zh/IR-strings.json"
     ],
     "public": true
 }
